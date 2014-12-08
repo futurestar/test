@@ -10,4 +10,4 @@
 1. dwqdwq
 2. dwqdwq
 
-[img](http://image.beekka.com/blog/201105/bg2011050101.png)
+![img](http://image.beekka.com/blog/201105/bg2011050101.png)
